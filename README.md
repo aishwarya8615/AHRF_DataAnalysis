@@ -18,6 +18,11 @@ Output: Subset of data and visualizations
 **Processed File Sample Images**
 Note: Unable to upload the complete processed file due to its size.
 
+* Processed Input File-Generic
+![processedfile1](https://user-images.githubusercontent.com/54454914/97843676-b539f780-1cb7-11eb-9649-cfd5f9fc3bb9.JPG)
+
+* Processed Input File - Data specific
+![processedfile2](https://user-images.githubusercontent.com/54454914/97843731-cf73d580-1cb7-11eb-9753-a1ddaaf6de99.JPG)
 
 **Few Visualizations:**
 * Interactive HeatMap of the number of primary care physicians by county in 2017
