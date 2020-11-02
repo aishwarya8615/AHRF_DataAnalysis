@@ -15,6 +15,9 @@ Output: Subset of data and visualizations
 1. ipynb
 2. nbimporter
 3. autopep8
+**Processed File Sample Images**
+Note: Unable to upload the complete processed file due to its size.
+
 
 **Few Visualizations:**
 * Interactive HeatMap of the number of primary care physicians by county in 2017
