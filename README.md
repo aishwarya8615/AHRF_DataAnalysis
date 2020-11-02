@@ -17,8 +17,8 @@ Output: Subset of data and visualizations
 3. autopep8
 
 **Few Visualizations:**
-
-
+* Interactive HeatMap of the number of primary care physicians by county in 2017
+![HEatMap](https://user-images.githubusercontent.com/54454914/97842560-c71a9b00-1cb5-11eb-8f38-0c6f0170c03a.JPG)
 
 **Technical References:** 
 * 1.	Pandas API Reference - https://pandas.pydata.org/docs/reference/index.html#api
