@@ -16,6 +16,9 @@ Output: Subset of data and visualizations
 2. nbimporter
 3. autopep8
 
+**Few Visualizations:**
+
+
 
 **Technical References:** 
 * 1.	Pandas API Reference - https://pandas.pydata.org/docs/reference/index.html#api
