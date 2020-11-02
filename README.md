@@ -24,9 +24,9 @@ Output: Subset of data and visualizations
 * 4.	Choropleth map - https://plotly.com/python/choropleth-maps/
 
 **Issues faced:**
-•	Jupyter nbextensions does not appear - https://stackoverflow.com/questions/49647705/jupyter-nbextensions-does-not-appear/50663099
-•	Writing to csv one row of dataframe at a time seemed to be time consuming.  So opted to group writing to file as 100 rows
-•	FIPS code was getting converted to integer and the leading '0' was getting omitted
-•	Interactive plots were not getting displayed In Github. Showed the static plot. Please run the notebook with the data file to see the interactive maps
+*	Jupyter nbextensions does not appear - https://stackoverflow.com/questions/49647705/jupyter-nbextensions-does-not-appear/50663099
+*	Writing to csv one row of dataframe at a time seemed to be time consuming.  So opted to group writing to file as 100 rows
+*	FIPS code was getting converted to integer and the leading '0' was getting omitted
+*	Interactive plots were not getting displayed In Github. Showed the static plot. Please run the notebook with the data file to see the interactive maps
 
 
