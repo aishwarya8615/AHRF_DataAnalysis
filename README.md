@@ -18,10 +18,10 @@ Output: Subset of data and visualizations
 
 
 **Technical References:** 
-1.	Pandas API Reference - https://pandas.pydata.org/docs/reference/index.html#api
-2.	https://regex101.com/  - to quickly validate regex expressions
-3.	How to expand lists in a dataframe - https://stackoverflow.com/questions/53218931/how-to-unnest-explode-a-column-in-a-pandas-dataframe
-4.	Choropleth map - https://plotly.com/python/choropleth-maps/
+* 1.	Pandas API Reference - https://pandas.pydata.org/docs/reference/index.html#api
+* 2.	https://regex101.com/  - to quickly validate regex expressions
+* 3.	How to expand lists in a dataframe - https://stackoverflow.com/questions/53218931/how-to-unnest-explode-a-column-in-a-pandas-dataframe
+* 4.	Choropleth map - https://plotly.com/python/choropleth-maps/
 
 **Issues faced:**
 •	Jupyter nbextensions does not appear - https://stackoverflow.com/questions/49647705/jupyter-nbextensions-does-not-appear/50663099
