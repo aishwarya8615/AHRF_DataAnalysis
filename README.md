@@ -6,6 +6,7 @@ Some level of cleaning and preprocessing was done to the file to enable its usag
 Input: AHRF 2018-2019 Technical Documentation.xlsx
            AHRF2019.asc
 Output: AHRF2019_processed.csv
+
 **AHRF Data Processing Visualization:**
 Preprocesses and normalizes the data for the various visualizations. A few of the visualizations are shown for different subsets of the data.
 Input: AHRF2019_processed.csv
